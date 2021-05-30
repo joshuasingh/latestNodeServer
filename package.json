@@ -19,7 +19,7 @@
     "multer": "1.4.2",
     "multer-s3": "2.9.0",
     "sockjs": "0.3.19",
-    "ws": "7.2.1"
+    "ws": "7.4.6"
   },
   "devDependencies": {
     "nodemon": "1.18.4"
